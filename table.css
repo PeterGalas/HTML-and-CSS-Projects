@@ -1,0 +1,66 @@
+table {
+    border: 1px solid silver;
+}
+
+td:hover {
+    background-color: yellow;
+    color: black;
+}
+
+tr, th {
+    background-color: black;
+    color: cornsilk;
+}
+tr, td {
+    background-color: darkgreen;
+    color: white;
+}
+
+table {
+    border: 1px solid silver;
+}
+
+td:hover {
+    background-color: yellow;
+    color: black;
+}
+
+tr, th {
+    background-color: black;
+    color: cornsilk;
+}
+
+tr, td {
+    background-color: darkgreen;
+    color: white;
+}
+
+ol {
+    background-color: gray;
+    color: blue;
+}
+
+ol, li {
+    background-color: gray;
+    color: black;
+    text-align: justify;
+    text-size-adjust: 10px;
+}
+
+table {
+    border: 2px solid silver;
+}
+
+li:hover {
+    background-color: green;
+    color: white;
+}
+
+cursor {
+    cursor: pointer;
+}
+
+.red {
+    text-shadow: blue 0 -2px;
+
+}

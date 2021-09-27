@@ -1,0 +1,29 @@
+
+body {
+    color: darkblue;
+    background-color: lightblue;
+}
+
+h3 {
+   align-content: center;
+   text-align: center;
+}
+
+.img {
+    border-collapse: collapse;
+    border-radius: 5%;
+    border: 2px dashed;
+    margin: 0%;
+    color: red;
+    position: absolute; 
+    padding: 0;   
+}
+
+.iframe {
+    width: 500px;
+    height: 315px;
+    bottom: 0;
+    position: absolute;
+    display: flex;
+    margin: auto;
+}
